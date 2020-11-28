@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="17656132" data-share-method="host" data-width="100%" data-aspect-ratio="0.5562248995983936"><a href="https://tenor.com/view/foodpanda-food-panda-foodpanda-rider-coding-gif-17656132">Foodpanda Foodpanda Rider GIF</a> from <a href="https://tenor.com/search/foodpanda-gifs">Foodpanda GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/foodpanda-food-panda-foodpanda-rider-coding-gif-17656132" alt="gif">
 
 
 ### Hi there 👋
