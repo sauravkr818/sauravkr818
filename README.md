@@ -5,7 +5,8 @@
 ### Hi there 👋 I am Saurav
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sauravkr818) 
-
+<h1 align="center">
+    Saurav Kumar&nbsp;&nbsp;&nbsp;<a href="https://sauravkr818.github.io/"><img height="24" width="24" src="./assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sauravkr818"><img height="24" width="24" src="./assets/github-mark.svg" /></a></h1>
 
 <img align="left" alt="Saurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sauravkr818&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
