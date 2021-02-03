@@ -9,7 +9,8 @@
     Saurav Kumar&nbsp;&nbsp;&nbsp;
   <a href="https://sauravkr818.github.io/"><img height="24" width="24" src="./assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sauravkr818"><img height="24" width="24" src="./assets/github-mark.svg" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/s_au.ra_v/"><img alt="saurav ig" height="24" width="24" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" /></a>
+  <a href="https://www.instagram.com/s_au.ra_v/"><img alt="saurav ig" height="24" width="24" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100011501836103"><img alt="saurav fb" height="24" width="24" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" /></a>
 </h1>
 
 
